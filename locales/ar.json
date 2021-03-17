@@ -1,0 +1,30 @@
+{
+  "navbarMenu": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "ourCompany": "شركتنا",
+    "partnersAndAccreditations": "الشركاء والاعتمادات",
+    "corporateStructure" : "هيكل الشركة",
+    "businessUnits": "وحدات العمل",
+    "projects": "المشاريع",
+    "partners": "شركاء",
+    "mediaAndEvents": "وسائل الإعلام والأحداث",
+    "contacts": "اتصل بنا",
+    "careers": "وظائف"
+  },
+  "heroTitleOne": "نحن ننمو بسرعة",
+    "heroTitleTwo": "هل تري.",
+    "heroTitleThree": "نحن الأندلس",
+    "heroTitleFour": "مجموعة طبية",
+    "heroParapraphTwo": "نحن دائما نهتم بك",
+    "heroParagraphOne": "بقي معيب مخالفا ابنته في أو. ابتهج احتمال بعد الخدم المادي من الرجال اعترفوا بالرد. ساد اليقين الرياضي المشتبه به. أضف السلالم واعجب بكل إجابة أقرب بعد.",
+    "heroButton": "تعلم اكثر",
+    "servicesTitle": "خدماتنا",
+    "firstServieTitle": "الخدمه الاولي",
+    "firstServieParagraph": "بقي معيب مخالفا ابنته في أو. ابتهج احتمال بعد الخدم المادي من الرجال اعترفوا بالرد.",
+    "secondServieTitle": "الخدمه الثانيه",
+    "secondServieParagraph": "بقي معيب مخالفا ابنته في أو. ابتهج احتمال بعد الخدم المادي من الرجال اعترفوا بالرد.",
+    "thirdServieTitle": "الخدمه الثالثه",
+    "thirdServieParagraph": "بقي معيب مخالفا ابنته في أو. ابتهج احتمال بعد الخدم المادي من الرجال اعترفوا بالرد.",
+    "servicesBtn": "عرض جميع الخدمات"
+}

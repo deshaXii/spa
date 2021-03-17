@@ -1,0 +1,30 @@
+{
+  "navbarMenu": {
+    "home": "home",
+    "about": "about us",
+    "ourCompany": "Our Company",
+    "partnersAndAccreditations": "Partners & Accreditations",
+    "corporateStructure" : "Corporate Structure",
+    "businessUnits": "Business Units",
+    "projects": "Projects",
+    "partners": "Partners",
+    "mediaAndEvents": "Media & Events",
+    "contacts": "Contacts",
+    "careers": "Careers"
+  },
+  "heroTitleOne": "We are growing fast",
+  "heroTitleTwo": "do you see.",
+  "heroTitleThree": "WE ARE ANDALUSIA",
+  "heroTitleFour": "MEDICAL GROUP",
+  "heroParapraphTwo": "We always care about you",
+  "heroParagraphOne": "Preserved defective offending he daughters on or. Rejoiced prospect yet material servants out answered men admitted. Sportsmen certainty prevailed suspected am as. Add stairs admire all answer the nearer yet length. ",
+  "heroButton": "Learn more",
+  "servicesTitle": "Our Services",
+  "firstServieTitle": "Service one",
+  "firstServieParagraph": "Preserved defective offending he daughters on or. Rejoiced prospect yet material servants out answered men admitted.",
+  "secondServieTitle": "Service two",
+  "secondServieParagraph": "Preserved defective offending he daughters on or. Rejoiced prospect yet material servants out answered men admitted.",
+  "thirdServieTitle": "Service three",
+  "thirdServieParagraph": "Preserved defective offending he daughters on or. Rejoiced prospect yet material servants out answered men admitted.",
+  "servicesBtn": "VIEW ALL SERVICES"
+}

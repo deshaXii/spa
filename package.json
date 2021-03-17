@@ -1,0 +1,25 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.3",
+    "gsap": "npm:@gsap/member@^3.6.0",
+    "nuxt": "^2.14.12",
+    "nuxt-i18n": "^6.21.1",
+    "vue-number-animation": "^1.0.5"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1"
+  }
+}
